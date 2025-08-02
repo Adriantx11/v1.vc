@@ -11,10 +11,5 @@
       "src": "/(.*)",
       "dest": "/index.php"
     }
-  ],
-  "functions": {
-    "index.php": {
-      "runtime": "vercel-php@0.6.0"
-    }
-  }
+  ]
 } 
