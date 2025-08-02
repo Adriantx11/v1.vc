@@ -1,0 +1,45 @@
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: Call to undefined function auto_shopify()
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 131
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 131
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 186
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 131
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 186
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 131
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 520
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 520
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 131
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 271
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 520
+Exception caught: CurlX::Post(): Argument #1 ($url) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 405
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 488
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 186
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 271
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 186
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 271
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 271
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 520
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 271
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 186
+Exception caught: CurlX::Post(): Argument #1 ($url) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 405
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 206
+Exception caught: CurlX::ParseString(): Argument #1 ($str) must be of type string, null given, called in /var/www/html/Class/Function_AutoS.php on line 412
